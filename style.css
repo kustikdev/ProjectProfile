@@ -1,0 +1,16 @@
+background.color {
+    background-color: aquamarine;
+}
+
+a {
+    width: 50%;
+    height: 50%;
+    margin-top: 100px;
+    color: darkturquoise;
+}
+
+button {
+    columns: 20px;
+    row-gap: 30px;
+    bottom: 40%;
+}
