@@ -46,5 +46,7 @@
 </li>
     <?php endforeach;?>
     </ul>
+    <footer> <p> tidak ada hasil lagi </p> </footer>
+    
 </body>
 </html>
