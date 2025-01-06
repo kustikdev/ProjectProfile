@@ -16,9 +16,8 @@ $angka 	= array(1,2,3,4,5); //kumpulan data integer
 $buah	= ["pisang","anggur","apel","","kiwi","nanas"]; //kumpulan data string
 echo $angka[1];
 echo "<br>";
-print_r($buah)[3]; //mencetak array pada index ke 3
 var_dump($angka)[1];
-echo "<br>"
+echo "<br>";
 ?>
 <?php $absennama = array ("rifat", "rizki", "udin", "asep", "abe");
 $absennama[6] = "gishel";
