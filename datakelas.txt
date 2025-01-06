@@ -1,0 +1,1 @@
+a:4:{i:0;a:2:{s:4:"nama";s:6:"Andika";s:8:"struktur";s:11:"ketua kelas";}i:1;a:2:{s:4:"nama";s:5:"Najwa";s:8:"struktur";s:10:"sekretaris";}i:2;a:2:{s:4:"nama";s:6:"Anggun";s:8:"struktur";s:9:"bendahara";}i:3;a:2:{s:4:"nama";s:9:"Nur Rahma";s:8:"struktur";s:9:"bendahara";}}
